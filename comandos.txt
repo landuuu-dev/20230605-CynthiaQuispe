@@ -41,4 +41,4 @@
   344  cd ..
   345  git add .
   346  git commit -m commit 353  mv index.html resumenSoftware.txt
-  354  printf ejemplos
+  354  printf ejemplos  355  printf ejemplo
