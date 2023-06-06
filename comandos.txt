@@ -41,4 +41,13 @@
   344  cd ..
   345  git add .
   346  git commit -m commit 353  mv index.html resumenSoftware.txt
+  347  git push
+  348  git push --set-upstream origin feature
+  349  git status
+  350  git checkout main
+  351  ls
+  352  mv main.js resumenHardware.txt
+  353  mv index.html resumenSoftware.txt
   354  printf ejemplos  355  printf ejemplo
+  355  printf "ejemplo de mememorias en la computadora: memoria ram, memoria rom y memoria cache" > resumenHardware.txt
+  356  history
