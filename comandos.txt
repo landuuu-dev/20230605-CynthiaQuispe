@@ -1,0 +1,44 @@
+  303  Desktop
+  304  cd desktop
+  305  mkdir 20230605
+  306  rm 20230605
+  307  ls
+  308  ls
+  309  cd 20230605-CynthiaQuispe
+  310  touch comandos.txt main.js index.html
+  311  git init
+  312  git add .
+  313  git status
+  314  git commit
+  315  git push
+  316  git remote add origin https://github.com/landuuu-dev/20230605-CynthiaQuispe.g
+  317  git remote add origin https://github.com/landuuu-dev/20230605-CynthiaQuispe.git
+  318  git branch -M main
+  319  git push -u origin main
+  320  git checkout -b feature
+  321  mkdir Hardware Software SeguridadInformatica
+  322  ls
+  323  cd hardware
+  324  touch resumen.txt
+  325  cd ..
+  326  cd software
+  327  touch resumen.txt
+  328  cd ..
+  329  cd seguridadinformatica
+  330  touch resumen.txt
+  331  git add .
+  332  git status
+  333  git init
+  334  git add .
+  335  git status
+  336  git commit commit  337  git commit
+  338  git push
+  339  git remote add origin https://github.com/landuuu-dev/20230605-CynthiaQuispe.git
+  340  git branch
+  341  git checkout feature
+  342  git branch
+  343  ls
+  344  cd ..
+  345  git add .
+  346  git commit -m commit 353  mv index.html resumenSoftware.txt
+  354  printf ejemplos
